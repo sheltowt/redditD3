@@ -1,26 +1,50 @@
 [
 {
-"letter": "Technology",
-"frequency": 10
+"letter": "technology",
+"frequency": 2027
 },
 {
-"letter": "B",
-"frequency": 15
+"letter": "wheredidthesodago",
+"frequency": 1950
 },
 {
-"letter": "C",
-"frequency": 20
+"letter": "science",
+"frequency": 1928
 },
 {
-"letter": "D",
-"frequency": 25
+"letter": "pics",
+"frequency": 1889
 },
 {
-"letter": "E",
-"frequency": 30
+"letter": "comics",
+"frequency": 1821
 },
 {
-"letter": "F",
-"frequency": 35
+"letter": "politics",
+"frequency": 1762
+},
+{
+"letter": "videos",
+"frequency": 1754
+},
+{
+"letter": "geek",
+"frequency": 1735
+},
+{
+"letter": "worldnews",
+"frequency": 1731
+},
+{
+"letter": "reddit.com",
+"frequency": 1723
+},
+{
+"letter": "LifeProTips",
+"frequency": 1705
+},
+{
+"letter": "EarthPorn",
+"frequency": 1681
 }
 ]
