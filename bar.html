@@ -53,7 +53,7 @@ var svg = d3.select("body").append("svg")
   .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-d3.json("commentsData.json", function(error, data) {
+d3.json("day_week.json", function(error, data) {
   
   console.log(data)
   data.forEach(function(d) {

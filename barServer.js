@@ -13,8 +13,12 @@ app.get('/data.json', function (req, res) {
   res.sendfile('data.json');
 });
 
-app.get('/newData.json', function (req, res) {
-  res.sendfile('newData.json');
+app.get('/hour.json', function (req, res) {
+  res.sendfile('hour.json');
+});
+
+app.get('/day_week.json', function (req, res) {
+  res.sendfile('day_week.json');
 });
 
 app.get('/commentsData.json', function (req, res) {
